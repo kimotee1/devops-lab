@@ -196,3 +196,4 @@ grep -rin "application" backup/
 - Combined multiple search options.
 
 **Day 2 Status:** Completed
+Git practice
